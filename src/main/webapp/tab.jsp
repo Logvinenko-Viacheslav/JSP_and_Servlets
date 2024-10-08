@@ -15,8 +15,6 @@
                 <td>
                     <fmt:formatNumber value="${p.x()}" minFractionDigits="1" maxFractionDigits="5"/>
                 </td>
-            </tr>
-            <tr>
                 <td>
                     <fmt:formatNumber value="${p.y()}" minFractionDigits="1" maxFractionDigits="5"/>
                 </td>
