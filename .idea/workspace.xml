@@ -10,18 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9fe418d-610a-432e-a935-d563b4ef29ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lab02/lab02/model/CalculatorTask1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lab02/lab02/model/CalculatorTask2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lab02/lab02/model/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lab02/lab02/model/TabModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/tab.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lab02/lab02/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab02/lab02/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lab02/lab02/model/CalculatorTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lab02/lab02/model/CalculatorTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/tab.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/tab.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,6 +173,7 @@
       <workItem from="1728225400232" duration="617000" />
       <workItem from="1728403630633" duration="8101000" />
       <workItem from="1728412072337" duration="2264000" />
+      <workItem from="1728414933151" duration="629000" />
     </task>
     <servers />
   </component>

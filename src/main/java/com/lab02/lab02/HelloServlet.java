@@ -53,7 +53,7 @@ public class HelloServlet extends HttpServlet {
             CalculatorTask2 calculatorTask2 = new CalculatorTask2(a, b, h);
             List<Point> points = calculatorTask2.getPoints();
 
-            request.setAttribute("tabModule", new TabModel((points)));
+            request.setAttribute("tabModel", new TabModel((points)));
             request.getRequestDispatcher("/tab.jsp").forward(request, response);
 
         } else {

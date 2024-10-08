@@ -14,7 +14,7 @@ public class CalculatorTask2 {
     public List<Point> getPoints(){
         List<Point> points = new ArrayList<>();
         int n = (int) Math.round((finish/start)/step+1);
-        for(int i=0; i<n; i++){
+        for(int i=0; i<n-1; i++){
             double x = start+step*i;
             double y = function(x);
             points.add(new Point(x, y));
