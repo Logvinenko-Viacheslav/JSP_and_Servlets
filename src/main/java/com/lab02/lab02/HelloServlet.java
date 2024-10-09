@@ -40,7 +40,7 @@ public class HelloServlet extends HttpServlet {
             double accurateChX = Math.cosh(x);
 
             request.setAttribute("funcCalcModel", new FuncCalcModel(x, n, e, chXC, chXDandN, accurateChX));
-            request.getRequestDispatcher("/funcCalc.jsp").forward(request, response);
+            request.getRequestDispatcher("/funCalc.jsp").forward(request, response);
 
         } else if (Integer.parseInt(tNumber) == 2) {
             String aStr = request.getParameter("task2-a");

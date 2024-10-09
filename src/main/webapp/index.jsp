@@ -13,7 +13,7 @@
     <label for="t1-x">x:</label>
     <input type="number" step="0.00001" id="t1-x" name="task1-x">
     <label for="t1-n">n:</label>
-    <input type="number" id="t1-n" name="task1-n">
+    <input type="number" step="1" id="t1-n" name="task1-n">
     <label for="t1-e">e:</label>
     <input type="number" step="0.00001" id="t1-e" name="task1-e">
     <input type="hidden" name="task-number" value="1">
