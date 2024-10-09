@@ -9,11 +9,11 @@
 <br/>
 <h2>Task 1:</h2>
 <br/>
-  <form method="post" action="calculate">
+  <form method="post" action="calculate-function">
     <label for="t1-x">x:</label>
     <input type="number" step="0.00001" id="t1-x" name="task1-x">
     <label for="t1-n">n:</label>
-    <input type="number" step="0.00001" id="t1-n" name="task1-n">
+    <input type="number" id="t1-n" name="task1-n">
     <label for="t1-e">e:</label>
     <input type="number" step="0.00001" id="t1-e" name="task1-e">
     <input type="hidden" name="task-number" value="1">
@@ -21,7 +21,7 @@
   </form>
 <br/><br/><br/>
 <h2>Task2:</h2>
-<form method="post" action="calculate">
+<form method="post" action="calculate-tab">
   <label for="t2-a">a:</label>
   <input type="number" step="0.00001" id="t2-a" name="task2-a">
   <label for="t2-b">b:</label>
