@@ -11,9 +11,9 @@
     <h2>x= <fmt:formatNumber value="${funcCalcModel.x}" minFractionDigits="1" maxFractionDigits="5"/> </h2>
     <h2>n= <fmt:formatNumber value="${funcCalcModel.n}" minFractionDigits="1" maxFractionDigits="5"/> </h2>
     <h2>e= <fmt:formatNumber value="${funcCalcModel.e}" minFractionDigits="1" maxFractionDigits="5"/> </h2>
-    <h2>ch(x)= <fmt:formatNumber value="${funcCalcModel.chXC}" minFractionDigits="1" maxFractionDigits="5"/> (by n)</h2>
-    <h2>ch(x)= <fmt:formatNumber value="${funcCalcModel.chXDandN[0]}" minFractionDigits="1" maxFractionDigits="5"/> (by e)</h2>
+    <h2>ch(x)= <fmt:formatNumber value="${funcCalcModel.chXC}" minFractionDigits="1" maxFractionDigits="9"/> (by n)</h2>
+    <h2>ch(x)= <fmt:formatNumber value="${funcCalcModel.chXDandN[0]}" minFractionDigits="1" maxFractionDigits="9"/> (by e)</h2>
     <h2>n= <fmt:formatNumber value="${funcCalcModel.chXDandN[1]}" minFractionDigits="1" maxFractionDigits="5"/> (by e)</h2>
-    <h2>ch(x)= <fmt:formatNumber value="${funcCalcModel.accurateChX}" minFractionDigits="1" maxFractionDigits="5"/> ("accurate")</h2>
+    <h2>ch(x)= <fmt:formatNumber value="${funcCalcModel.accurateChX}" minFractionDigits="1" maxFractionDigits="9"/> ("accurate")</h2>
 </body>
 </html>

@@ -15,7 +15,7 @@
     <label for="t1-n">n:</label>
     <input type="number" step="1" id="t1-n" name="task1-n">
     <label for="t1-e">e:</label>
-    <input type="number" step="0.00001" id="t1-e" name="task1-e">
+    <input type="number" step="0.0000000001" id="t1-e" name="task1-e">
     <input type="hidden" name="task-number" value="1">
     <button type="submit">Calculate</button>
   </form>
